@@ -1,0 +1,27 @@
+Test:
+2 most important topics:
+Min 25 max 50 words
+Summary/Caption/Key-Words Min 2 max 5 words.
+
+1.JS
+JavaScript is a programming language used to make websites interactive and dynamic. It handles events,  forms validation, 
+updates content, and adds functionality to web pages.It helps developers add functionality, handle user events, validate
+update webpage content.
+keywords : javascript programming language
+
+2. React is a javascript library used to build interactive and interfaces. It is a reusable components to create dynamic and
+ fast web application. React uses JSX,props and state to build dynamic website.It also provide hooks like useState and useEffect
+ for managing data and component behaviour.
+
+Keywords: Reacts components and props
+
+3. Browser Storage:
+ Browser Storage allows a web page to store data inside the user browser.The Browser Storage types are: 
+ 1. Local Storage  2. Session Storage  3. cookies 4.Enodb
+   1.Local Storage is also known as presistent Storage keeps data even after the page or browser is closed and responed.
+   2.Session Storage generally keeps data only for the current browser tab.
+ Both use key-value pairs. Data is retrieved using. Data can be removed using.Storage values are Strings,so objects and 
+ array are commonly handled with JSON;
+   3. Cookies are another browser storage mechanism,but unlike localStorage,cookies can be automatically sent along with request to the server.
+
+Keywords: Browser Storage stores data in the browser.
