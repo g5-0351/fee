@@ -3,7 +3,10 @@ Max 50 words
 Summary max 10 words
 // Create Home Page: only two components of your project
 
-//REACT:
-// React is a javascript library used to build interactive and interfaces. It is a reusable components to create dynamic and fast web application. React uses JSX,props and state to build dynamic website.This is called single page application were user can move between pages easily. It also provide hooks like useState and useEffect for managing data and component behaviour.React also supports virtual DOM, which helps update webpages efficiently. React Router is used for navigation between different pages. It makes websites faster, reusable, flexible, and easier to maintain.
-
+1.REACT:
+  React is a javascript library used to build interactive and interfaces. It is a reusable components to create dynamic and 
+  fast web application. React uses JSX,props and state to build dynamic website.This is called single page application were
+  user can move between pages easily. It also provide hooks like useState and useEffect for managing data and component behaviour.
+  React also supports virtual DOM, which helps update webpages efficiently. React Router is used for navigation between different pages. 
+  It makes websites faster, reusable, flexible, and easier to maintain.
 Conclusion: React is an important frontend technology for building modern, dynamic, and user-friendly websites.
