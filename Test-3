@@ -1,0 +1,19 @@
+1. API(Application programming interface)
+
+   It is a set of rules that allows two applications to communicate with each other. It helps applications share data and services. APIs are commonly used in websites, mobile applications, and databases. They make communication between different software systems easy, fast, and secure.The main types of web API 1. REST APIs (Representation State Transfer) , 2. GraphQL APIs ,3. SOAP APIs(Simple object access protocol) 4. WebSocket APIs 
+
+2. JSON (Java script object notation)
+
+   It is a simple and lightweight format used to store and share data between applications. It is easy to read and understand. JSON stores data in key-value pairs. It is used in APIs, websites, JavaScript, React, Node.js, and databases. It helps send data between the client and server. JSON supports strings, numbers, arrays, objects, and boolean values. Its file extension is .json .JSON is supported by many programming languages and is commonly used in web development and APIs. It makes data sharing simple and fast.
+
+3. Functions :
+
+   1.It is reusable block of code.
+   2.Used for performing a particular task.
+   3.Used for data performming or data transformation. 
+   4.Function can be in-built functions or programmer defined function.
+   5.Function have zero or more parameters
+   6.Parameters are specified within parantheses after the function name
+   7.Function return a value through return statement
+   8.A return statement stop execution of the function body and return value back at the calling point.
+   9.Functions : function expression, arrow function, callback function.
